@@ -81,7 +81,7 @@ Exploring cloud-based AI services, automation, serverless architectures and inte
 
 ---
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=EDGR_2005&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=EDGR2005&show_icons=true&theme=tokyonight)
 
 
 ## Contact
