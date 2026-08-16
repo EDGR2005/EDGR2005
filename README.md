@@ -7,12 +7,7 @@ I'm a Computer Science student interested in **software development, backend sys
 I enjoy turning ideas into functional software and learning by building real-world projects.
 
 ---
-
-## Contact
-
-- 💼 LinkedIn: [www.linkedin.com/in/eduardogarciardev]
-- 🌐 Portfolio: [Coming soon]
-- 📧 Email: [jgarciaed535@gmail.com]
+Email: [jgarciaed535@gmail.com]
 
 ## About Me
 
@@ -85,6 +80,14 @@ Exploring cloud-based AI services, automation, serverless architectures and inte
 - Application security
 
 ---
+
+
+## Contact
+
+- 💼 LinkedIn: [www.linkedin.com/in/eduardogarciardev]
+- 🌐 Portfolio: [Coming soon]
+- 📧 Email: [jgarciaed535@gmail.com]
+
 
 
 
