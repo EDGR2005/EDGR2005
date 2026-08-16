@@ -84,8 +84,7 @@ Exploring cloud-based AI services, automation, serverless architectures and inte
 
 ## Contact
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eduardogarciardev)
-- 💼 LinkedIn: [www.linkedin.com/in/eduardogarciardev]
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eduardogarciardev)[www.linkedin.com/in/eduardogarciardev]
 - 🌐 Portfolio: [Coming soon]
 - 📧 Email: [jgarciaed535@gmail.com]
 
