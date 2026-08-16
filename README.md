@@ -43,9 +43,9 @@ I enjoy turning ideas into functional software and learning by building real-wor
 
 ---
 
-## 📌 Featured Projects
+## __ Featured Projects __
 
-### 🏋️ Gym Management System
+###  Gym Management System
 A desktop management system designed for gyms, including:
 
 - Customer management
@@ -57,19 +57,19 @@ A desktop management system designed for gyms, including:
 
 **Technologies:** Java, JavaFX, SQLite, PostgreSQL
 
-### 🎟️ Reservation & Automation Systems
+### Reservation & Automation Systems
 Projects focused on automating reservations and customer interactions using APIs, databases, messaging platforms and workflow automation.
 
 **Technologies:** REST APIs, PostgreSQL, Docker, n8n
 
-### 🤖 AI & Cloud Experiments
+### AI & Cloud Experiments
 Exploring cloud-based AI services, automation, serverless architectures and intelligent applications.
 
 **Technologies:** Python, AWS, APIs, Lambda
 
 ---
 
-## 📚 Currently Learning
+## __ Currently Learning __
 
 - Backend architecture
 - Database administration
