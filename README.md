@@ -1,5 +1,3 @@
-## Hi I´m Eduardo García 
-
 # Hi, I'm Eduardo García
 
 ### Computer Science Student | Software & Backend Developer
