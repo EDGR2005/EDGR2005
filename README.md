@@ -10,6 +10,12 @@ I enjoy turning ideas into functional software and learning by building real-wor
 
 ---
 
+## Contact
+
+- 💼 LinkedIn: [www.linkedin.com/in/eduardogarciardev]
+- 🌐 Portfolio: [Coming soon]
+- 📧 Email: [jgarciaed535@gmail.com]
+
 ## About Me
 
 - Computer Science student
@@ -82,10 +88,6 @@ Exploring cloud-based AI services, automation, serverless architectures and inte
 
 ---
 
-## Contact
 
-- 💼 LinkedIn: [www.linkedin.com/in/eduardogarciardev]
-- 🌐 Portfolio: [Coming soon]
-- 📧 Email: [jgarciaed535@gmail.com]
 
 
