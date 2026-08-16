@@ -1,6 +1,6 @@
 ## Hi I´m Eduardo García 
 
-# 👋 Hi, I'm Eduardo García
+# Hi, I'm Eduardo García
 
 ### Computer Science Student | Software & Backend Developer
 
@@ -10,19 +10,19 @@ I enjoy turning ideas into functional software and learning by building real-wor
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 Computer Science student
-- 💻 Interested in Backend & Software Development
-- 🗄️ Interested in Database Administration and Design
-- ☁️ Exploring Cloud Computing and DevOps
-- 🔐 Interested in authentication, biometrics and application security
-- 🤖 Exploring automation and AI-powered applications
-- 🛠️ I enjoy building projects from scratch and solving practical problems
+- Computer Science student
+- Interested in Backend & Software Development
+- Interested in Database Administration and Design
+- Exploring Cloud Computing and DevOps
+- Interested in authentication, biometrics and application security
+- Exploring automation and AI-powered applications
+- I enjoy building projects from scratch and solving practical problems
 
 ---
 
-## 🧰 Technologies & Tools
+## Technologies & Tools
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -51,7 +51,6 @@ A desktop management system designed for gyms, including:
 - Inventory
 - Point of Sale
 - Kardex
-- Biometric access control
 - Database management
 
 **Technologies:** Java, JavaFX, SQLite, PostgreSQL
@@ -81,12 +80,10 @@ Exploring cloud-based AI services, automation, serverless architectures and inte
 
 ---
 
-## 📫 Contact
+## Contact
 
-- 💼 LinkedIn: [Coming soon]
+- 💼 LinkedIn: [www.linkedin.com/in/eduardogarciardev]
 - 🌐 Portfolio: [Coming soon]
-- 📧 Email: [Your email]
+- 📧 Email: [jgarciaed535@gmail.com]
 
----
 
-> "Build it. Break it. Understand it. Improve it."
